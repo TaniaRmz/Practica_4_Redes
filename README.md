@@ -21,7 +21,8 @@ encoding = Parámetro de la solicitud de la codificación de la respuesta
 connection = forma del establecimiento de la conexión
   Ejemplo: keep-alive o close
 
-EJEMPLO
+EJEMPLO 
+
 En la primer línea se ve un error en la ejecución ya que faltó especificar el atributo "url"
 ![Ejemplo1](https://github.com/TaniaRmz/Practica_4_Redes/assets/88344062/4a25c4ae-fd63-4a55-95c8-8eaa46a455bb)
 En la úlitma línea se ve un ejemplo de cómo ejecutar correctamente el programa
