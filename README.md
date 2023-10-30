@@ -52,7 +52,8 @@ sin requerir detalles del mismo.
 2 Categorías de códigos de estado que usa HTTP
 
   2.1 Informativos (1xx)
-  
+
+    Proporcionan información adicional sobre el proceso de la solicitud
     Proporcionan información adicional sobre el proceso de la solicitud 
     
       Ejemplo: 100 (Continue)-> La solicitud ha sido recibida y el servidor esáa esperando la siguiente parte de la solicitud del cliente
