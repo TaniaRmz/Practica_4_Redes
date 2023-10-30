@@ -20,3 +20,4 @@ encoding = Parámetro de la solicitud de la codificación de la respuesta
   Ejemplo: gzip, deflate o indetity
 connection = forma del establecimiento de la conexión
   Ejemplo: keep-alive o close
+![Ejemplo1](https://github.com/TaniaRmz/Practica_4_Redes/assets/88344062/4527f384-fee1-46ca-b23b-091ad37cd994)
