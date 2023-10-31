@@ -2,7 +2,7 @@
 
 #Imagen base a usar para la construcción de la imagen a trabajar
 #Es una imagen Python 2.7 basada en Alpine Linux
-FROM python:2.7.17-Alpine
+FROM python:2.7.17-alpine
 
 #Se instalan los módulos de python que se requieran
 #RUN pip install nombre_modulo
